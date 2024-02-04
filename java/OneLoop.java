@@ -28,12 +28,6 @@ public class OneLoop {
         list1.add(89);
         list1.add(33);
 
-        /*
-         * for (int i = 0; i < list1.size(); i++) {
-         * System.out.println(list1.get(i));
-         * }
-         */
-
         List<Integer> list2 = new ArrayList<Integer>(); // declare a list
         list2.add(21);
         list2.add(15);
